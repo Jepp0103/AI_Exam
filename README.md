@@ -22,3 +22,5 @@ From folder fruits-360_dataset/fruits-360
 Combine Test and Training images into one, as we split the dataset in our code.
 
 Put the combined images into Datasets/Training
+
+We don't include Onion Red Peeled cause of inconsistencies.
