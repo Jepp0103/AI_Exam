@@ -9,8 +9,7 @@ https://public.roboflow.com/classification/fruits-dataset/1/download
 
 Choose: resize-512x512-reflect
 
-We use this data to "configure"/test our hyperparameters.
-
+This is just to run small tests on a smaller data set
 
 ### Datasets/Training
 
